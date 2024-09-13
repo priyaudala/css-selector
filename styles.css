@@ -1,0 +1,12 @@
+body{
+  background-color:blue
+}
+#heading1 {
+  text-align:center;
+}
+* {
+  color: red;
+}
+h2,h3, p {
+ background-color:black;
+}
